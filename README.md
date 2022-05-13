@@ -1,4 +1,8 @@
 # AnnoGram
+
+AnnoGram is a Google Chrome extension that allows users to take notes in a window while simultaneously watching videos to streamline the note taking process.
+Group Project from CEN3031
+
 To run the program:
 1. Download code as a zip file. Unzip it and copy the file path to the "src" folder within.
 3. Go to chrome://extensions/
